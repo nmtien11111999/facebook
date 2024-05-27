@@ -1,0 +1,18 @@
+.container {
+    height: 700px;
+    width: 500px;
+    box-shadow: black;
+    margin-top: 70px;
+    background-color: aquamarine;
+}
+
+.name {
+    width: 150px;
+    margin-left: 12px;
+}
+
+.day {
+    width: 120px;
+    padding-left: 30px;
+}
+
